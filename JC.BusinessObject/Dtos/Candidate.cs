@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 
 namespace JC.BusinessObject.Dtos
 {
-    public record Candidate
+    public record Candidate: BaseDto
     {
-        public Guid Id { get; set; }
+     
         [Required(ErrorMessage ="First Name is Required")]
         [StringLength(10,MinimumLength =2,ErrorMessage ="First Name must be at least 2 letters")]
         public string FirstName { get; set; } = default!;

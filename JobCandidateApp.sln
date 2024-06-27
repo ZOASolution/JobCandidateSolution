@@ -9,11 +9,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentatio
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{E3B42DF9-ED54-4B5D-B9A2-9F772029223C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JC.DataAccess.Contracts", "JC.DataAccess.Contracts\JC.DataAccess.Contracts.csproj", "{7C213328-DCF8-4B04-9A9E-5EE39D1EFBA9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JC.DataAccess.Contracts", "JC.DataAccess.Contracts\JC.DataAccess.Contracts.csproj", "{7C213328-DCF8-4B04-9A9E-5EE39D1EFBA9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JC.BusinessObject", "JC.BusinessObject\JC.BusinessObject.csproj", "{AD3CBE9D-000A-41F2-B433-56694285A622}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JC.BusinessObject", "JC.BusinessObject\JC.BusinessObject.csproj", "{AD3CBE9D-000A-41F2-B433-56694285A622}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JC.DataAccess.SQL", "JC.DataAccess.SQL\JC.DataAccess.SQL.csproj", "{EC09C715-0B96-40AE-B507-42428B454E6C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JC.DataAccess.SQL", "JC.DataAccess.SQL\JC.DataAccess.SQL.csproj", "{EC09C715-0B96-40AE-B507-42428B454E6C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{23A0541D-6380-4787-AF40-280CD4C27FD8}"
 EndProject
@@ -21,6 +21,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Scripts", "Scripts", "{0974
 	ProjectSection(SolutionItems) = preProject
 		JC.SqlDb\Script\DBScript.sql = JC.SqlDb\Script\DBScript.sql
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JC.BusinessLogic", "JC.BusinessLogic\JC.BusinessLogic.csproj", "{9C325B79-5B4E-435F-93A1-DE45BDD5F557}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JC.DataAccess", "JC.DataAccess\JC.DataAccess.csproj", "{222FBBE9-37C4-4F11-8DAF-BF1CE0BDFFFE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -40,6 +44,14 @@ Global
 		{EC09C715-0B96-40AE-B507-42428B454E6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC09C715-0B96-40AE-B507-42428B454E6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC09C715-0B96-40AE-B507-42428B454E6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C325B79-5B4E-435F-93A1-DE45BDD5F557}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C325B79-5B4E-435F-93A1-DE45BDD5F557}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C325B79-5B4E-435F-93A1-DE45BDD5F557}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C325B79-5B4E-435F-93A1-DE45BDD5F557}.Release|Any CPU.Build.0 = Release|Any CPU
+		{222FBBE9-37C4-4F11-8DAF-BF1CE0BDFFFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{222FBBE9-37C4-4F11-8DAF-BF1CE0BDFFFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{222FBBE9-37C4-4F11-8DAF-BF1CE0BDFFFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{222FBBE9-37C4-4F11-8DAF-BF1CE0BDFFFE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -49,6 +61,8 @@ Global
 		{AD3CBE9D-000A-41F2-B433-56694285A622} = {E3B42DF9-ED54-4B5D-B9A2-9F772029223C}
 		{EC09C715-0B96-40AE-B507-42428B454E6C} = {A126E5AB-1F75-43C8-9BCD-2DF42DEB520C}
 		{0974CCFA-9833-4561-AC47-481C7CF562E2} = {23A0541D-6380-4787-AF40-280CD4C27FD8}
+		{9C325B79-5B4E-435F-93A1-DE45BDD5F557} = {E3B42DF9-ED54-4B5D-B9A2-9F772029223C}
+		{222FBBE9-37C4-4F11-8DAF-BF1CE0BDFFFE} = {E3B42DF9-ED54-4B5D-B9A2-9F772029223C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A3E4BEE6-63A6-4427-97D0-A287A7532802}

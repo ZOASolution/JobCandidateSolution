@@ -9,3 +9,15 @@ D:\Projects\JobCandidateSolution\JobCandidateApp\JC.BusinessObject\obj\Debug\net
 D:\Projects\JobCandidateSolution\JobCandidateApp\JC.BusinessObject\obj\Debug\net8.0\refint\JC.BusinessObject.dll
 D:\Projects\JobCandidateSolution\JobCandidateApp\JC.BusinessObject\obj\Debug\net8.0\JC.BusinessObject.pdb
 D:\Projects\JobCandidateSolution\JobCandidateApp\JC.BusinessObject\obj\Debug\net8.0\ref\JC.BusinessObject.dll
+D:\Projects\JobCandidateSolution\JC.BusinessObject\bin\Debug\net8.0\JC.BusinessObject.deps.json
+D:\Projects\JobCandidateSolution\JC.BusinessObject\bin\Debug\net8.0\JC.BusinessObject.dll
+D:\Projects\JobCandidateSolution\JC.BusinessObject\bin\Debug\net8.0\JC.BusinessObject.pdb
+D:\Projects\JobCandidateSolution\JC.BusinessObject\obj\Debug\net8.0\JC.BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\JobCandidateSolution\JC.BusinessObject\obj\Debug\net8.0\JC.BusinessObject.AssemblyInfoInputs.cache
+D:\Projects\JobCandidateSolution\JC.BusinessObject\obj\Debug\net8.0\JC.BusinessObject.AssemblyInfo.cs
+D:\Projects\JobCandidateSolution\JC.BusinessObject\obj\Debug\net8.0\JC.BusinessObject.csproj.CoreCompileInputs.cache
+D:\Projects\JobCandidateSolution\JC.BusinessObject\obj\Debug\net8.0\JC.BusinessObject.sourcelink.json
+D:\Projects\JobCandidateSolution\JC.BusinessObject\obj\Debug\net8.0\JC.BusinessObject.dll
+D:\Projects\JobCandidateSolution\JC.BusinessObject\obj\Debug\net8.0\refint\JC.BusinessObject.dll
+D:\Projects\JobCandidateSolution\JC.BusinessObject\obj\Debug\net8.0\JC.BusinessObject.pdb
+D:\Projects\JobCandidateSolution\JC.BusinessObject\obj\Debug\net8.0\ref\JC.BusinessObject.dll

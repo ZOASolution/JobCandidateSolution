@@ -1,4 +1,5 @@
-﻿using JC.DataAccess.Contracts.Models;
+﻿using JC.BusinessObject.Dtos;
+using JC.DataAccess.Contracts.Models;
 using JC.DataAccess.Contracts.Repositories;
 using JC.DataAccess.SQL.EntityFramework;
 using System;
@@ -9,9 +10,9 @@ using System.Threading.Tasks;
 
 namespace JC.DataAccess.SQL.Repositories
 {
-    public class Repository<T> : IRepository<T> where T : ModelBase
+    public class SqlRepository<T> : IRepository<T> where T : BaseDto
     {
-        public Repository()
+        public SqlRepository()
         {
             
         }
@@ -23,7 +24,7 @@ namespace JC.DataAccess.SQL.Repositories
         }
       
 
-        public void UpdateAsync(T entity)
+        public void Update(T entity)
         {
             using Context context = new Context();
             context.Set<T>().Update(entity);

@@ -1,4 +1,5 @@
-﻿using JC.DataAccess.Contracts.Models;
+﻿using JC.BusinessObject.Dtos;
+using JC.DataAccess.Contracts.Models;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -8,9 +9,9 @@ using System.Threading.Tasks;
 
 namespace JC.DataAccess.Contracts.Repositories
 {
-    public interface IRepository<T> where T : ModelBase
+    public interface IRepository<T> where T : BaseDto
     {
-       void UpdateAsync(T entity);
+       void Update(T entity);
        Task AddAsync(T entity);
 
 

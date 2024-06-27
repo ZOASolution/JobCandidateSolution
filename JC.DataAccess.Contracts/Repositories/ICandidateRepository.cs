@@ -8,8 +8,8 @@ using System.Threading.Tasks;
 
 namespace JC.DataAccess.Contracts.Repositories
 {
-    public interface ICandidateRepository
+    public interface ICandidateRepository:IRepository<BaseDto>
     {
-        Task<Candidate?> GetByEmail(string email);
+        Task<Candidate?> GetByEmailAsync(string email);
     }
 }

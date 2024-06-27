@@ -11,9 +11,9 @@ using System.Threading.Tasks;
 
 namespace JC.DataAccess.SQL.Repositories
 {
-    public class CandidateRepository : Repository<CandidateModel>, ICandidateRepository
+    public class CandidateSQlRepository : SqlRepository<BaseDto>, ICandidateRepository
     {
-        public async Task<Candidate?> GetByEmail(string email)
+        public async Task<Candidate?> GetByEmailAsync(string email)
         {
             Context context = new();
             CandidateModel? candidateModel=await context.Candidates.FindAsync(email);
