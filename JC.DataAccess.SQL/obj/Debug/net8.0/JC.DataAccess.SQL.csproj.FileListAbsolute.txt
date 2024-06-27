@@ -1,0 +1,17 @@
+D:\Projects\JobCandidateSolution\JobCandidateApp\JC.DataAccess.SQL\bin\Debug\net8.0\JC.DataAccess.SQL.deps.json
+D:\Projects\JobCandidateSolution\JobCandidateApp\JC.DataAccess.SQL\bin\Debug\net8.0\JC.DataAccess.SQL.dll
+D:\Projects\JobCandidateSolution\JobCandidateApp\JC.DataAccess.SQL\bin\Debug\net8.0\JC.DataAccess.SQL.pdb
+D:\Projects\JobCandidateSolution\JobCandidateApp\JC.DataAccess.SQL\bin\Debug\net8.0\JC.BusinessObject.dll
+D:\Projects\JobCandidateSolution\JobCandidateApp\JC.DataAccess.SQL\bin\Debug\net8.0\JC.DataAccess.Contracts.dll
+D:\Projects\JobCandidateSolution\JobCandidateApp\JC.DataAccess.SQL\bin\Debug\net8.0\JC.BusinessObject.pdb
+D:\Projects\JobCandidateSolution\JobCandidateApp\JC.DataAccess.SQL\bin\Debug\net8.0\JC.DataAccess.Contracts.pdb
+D:\Projects\JobCandidateSolution\JobCandidateApp\JC.DataAccess.SQL\obj\Debug\net8.0\JC.DataAccess.SQL.csproj.AssemblyReference.cache
+D:\Projects\JobCandidateSolution\JobCandidateApp\JC.DataAccess.SQL\obj\Debug\net8.0\JC.DataAccess.SQL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\JobCandidateSolution\JobCandidateApp\JC.DataAccess.SQL\obj\Debug\net8.0\JC.DataAccess.SQL.AssemblyInfoInputs.cache
+D:\Projects\JobCandidateSolution\JobCandidateApp\JC.DataAccess.SQL\obj\Debug\net8.0\JC.DataAccess.SQL.AssemblyInfo.cs
+D:\Projects\JobCandidateSolution\JobCandidateApp\JC.DataAccess.SQL\obj\Debug\net8.0\JC.DataAccess.SQL.csproj.CoreCompileInputs.cache
+D:\Projects\JobCandidateSolution\JobCandidateApp\JC.DataAccess.SQL\obj\Debug\net8.0\JC.DataAccess.SQL.csproj.CopyComplete
+D:\Projects\JobCandidateSolution\JobCandidateApp\JC.DataAccess.SQL\obj\Debug\net8.0\JC.DataAccess.SQL.dll
+D:\Projects\JobCandidateSolution\JobCandidateApp\JC.DataAccess.SQL\obj\Debug\net8.0\refint\JC.DataAccess.SQL.dll
+D:\Projects\JobCandidateSolution\JobCandidateApp\JC.DataAccess.SQL\obj\Debug\net8.0\JC.DataAccess.SQL.pdb
+D:\Projects\JobCandidateSolution\JobCandidateApp\JC.DataAccess.SQL\obj\Debug\net8.0\ref\JC.DataAccess.SQL.dll

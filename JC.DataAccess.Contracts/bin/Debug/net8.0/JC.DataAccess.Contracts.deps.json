@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "JC.DataAccess.Contracts/1.0.0": {
+        "dependencies": {
+          "JC.BusinessObject": "1.0.0"
+        },
+        "runtime": {
+          "JC.DataAccess.Contracts.dll": {}
+        }
+      },
+      "JC.BusinessObject/1.0.0": {
+        "runtime": {
+          "JC.BusinessObject.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JC.DataAccess.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "JC.BusinessObject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
