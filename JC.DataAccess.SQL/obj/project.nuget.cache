@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "a+La7W9LweYbCSG9uilUecRZ6A5AUIYQREcDViHVqDrGnFfZ/J30XbqSvz4S7ziLUe3NA/Jb4QBOUloc6v2Drg==",
+  "dgSpecHash": "ZOkIbQ1khdmmJeUFNRHdmPq+Ij2a3axLxIKl3aS0P4gPm7Mw0FnfSLF1haLGt431s1wY9x8+sc0eZdqwzsRY9w==",
   "success": true,
   "projectFilePath": "D:\\Projects\\JobCandidateSolution\\JC.DataAccess.SQL\\JC.DataAccess.SQL.csproj",
   "expectedPackageFiles": [
@@ -36,6 +36,7 @@
     "C:\\Users\\zoa_z\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\zoa_z\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
     "C:\\Users\\zoa_z\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\zoa_z\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\zoa_z\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.1\\system.configuration.configurationmanager.6.0.1.nupkg.sha512",
     "C:\\Users\\zoa_z\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.1\\system.diagnostics.diagnosticsource.6.0.1.nupkg.sha512",
     "C:\\Users\\zoa_z\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",

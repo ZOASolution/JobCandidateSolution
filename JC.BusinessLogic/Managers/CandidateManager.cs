@@ -20,17 +20,22 @@ namespace JC.BusinessLogic.Managers
         }
         public async Task SaveAsync(Candidate candidate)
         {
-            Candidate? existedCandidate=await _candidateRepository.GetByEmailAsync(candidate.Email);
-            if (existedCandidate==null)
+            Candidate? existedCandidate = await GetByEmailAsync(candidate.Email);
+            if (existedCandidate == null)
             {
                 await AddAsync(candidate);
             }
             else
             {
                 EditExistedCandidate(candidate, existedCandidate);
-                Update(candidate);
+                Update(existedCandidate);
 
             }
+        }
+
+        public async Task<Candidate?> GetByEmailAsync(string email)
+        {
+            return await _candidateRepository.GetByEmailAsync(email);
         }
 
         private void Update(Candidate candidate)

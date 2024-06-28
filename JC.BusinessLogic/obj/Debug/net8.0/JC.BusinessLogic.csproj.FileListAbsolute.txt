@@ -20,3 +20,4 @@ D:\Projects\JobCandidateSolution\JC.BusinessLogic\obj\Debug\net8.0\JC.BusinessLo
 D:\Projects\JobCandidateSolution\JC.BusinessLogic\obj\Debug\net8.0\refint\JC.BusinessLogic.dll
 D:\Projects\JobCandidateSolution\JC.BusinessLogic\obj\Debug\net8.0\JC.BusinessLogic.pdb
 D:\Projects\JobCandidateSolution\JC.BusinessLogic\obj\Debug\net8.0\ref\JC.BusinessLogic.dll
+D:\Projects\JobCandidateSolution\JC.BusinessLogic\bin\Debug\net8.0\Configuration\Config.json

@@ -33,3 +33,4 @@ D:\Projects\JobCandidateSolution\JC.DataAccess.SQL\obj\Debug\net8.0\JC.DataAcces
 D:\Projects\JobCandidateSolution\JC.DataAccess.SQL\obj\Debug\net8.0\refint\JC.DataAccess.SQL.dll
 D:\Projects\JobCandidateSolution\JC.DataAccess.SQL\obj\Debug\net8.0\JC.DataAccess.SQL.pdb
 D:\Projects\JobCandidateSolution\JC.DataAccess.SQL\obj\Debug\net8.0\ref\JC.DataAccess.SQL.dll
+D:\Projects\JobCandidateSolution\JC.DataAccess.SQL\bin\Debug\net8.0\Configuration\Config.json

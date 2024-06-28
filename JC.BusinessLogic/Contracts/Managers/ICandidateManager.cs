@@ -9,6 +9,7 @@ namespace JC.BusinessLogic.Contracts.Managers
 {
     public interface ICandidateManager
     {
+        Task<Candidate?> GetByEmailAsync(string email);
         Task SaveAsync(Candidate candidate);
     }
 }

@@ -9,10 +9,10 @@ using System.Threading.Tasks;
 
 namespace JC.DataAccess.Contracts.Repositories
 {
-    public interface IRepository<T> where T : BaseDto
+    public interface IRepository<TModel> where TModel : ModelBase
     {
-       void Update(T entity);
-       Task AddAsync(T entity);
+       void Update(TModel entity);
+       Task AddAsync(TModel entity);
 
 
     }

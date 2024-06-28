@@ -27,5 +27,23 @@ namespace JC.DataAccess.SQL.Converters
 
             return candidate;
         }
+
+        public static CandidateModel Convert(Candidate candidate)
+        {
+            CandidateModel candidateModel= new()
+            {
+                Id = candidate.Id,
+                Comments = candidate.Comments,
+                Email = candidate.Email,
+                FirstName = candidate.FirstName,
+                GithubProfile = candidate.GithubProfile,
+                LastName = candidate.LastName,
+                LinkedInProfile = candidate.LinkedInProfile,
+                PhoneNumber = candidate.PhoneNumber,
+                PreferedTime = candidate.PreferedTime,
+            };
+
+            return candidateModel;
+        }
     }
 }

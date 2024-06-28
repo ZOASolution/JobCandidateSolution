@@ -10,24 +10,24 @@ using System.Threading.Tasks;
 
 namespace JC.DataAccess.SQL.Repositories
 {
-    public class SqlRepository<T> : IRepository<T> where T : BaseDto
+    public class SqlRepository<TModel> : IRepository<TModel> where TModel : ModelBase
     {
         public SqlRepository()
         {
             
         }
-        public async Task AddAsync(T entity)
+        public async Task AddAsync(TModel entity)
         {
             using Context context = new Context();
-            await context.Set<T>().AddAsync(entity);
+            await context.Set<TModel>().AddAsync(entity);
             context.SaveChanges();
         }
       
 
-        public void Update(T entity)
+        public void Update(TModel entity)
         {
             using Context context = new Context();
-            context.Set<T>().Update(entity);
+            context.Set<TModel>().Update(entity);
             context.SaveChanges();
         }
     }

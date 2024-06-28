@@ -1,0 +1,432 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Projects\\JobCandidateSolution\\JC.UnitTest\\JC.UnitTest.csproj": {}
+  },
+  "projects": {
+    "D:\\Projects\\JobCandidateSolution\\JC.BusinessLogic\\JC.BusinessLogic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\JobCandidateSolution\\JC.BusinessLogic\\JC.BusinessLogic.csproj",
+        "projectName": "JC.BusinessLogic",
+        "projectPath": "D:\\Projects\\JobCandidateSolution\\JC.BusinessLogic\\JC.BusinessLogic.csproj",
+        "packagesPath": "C:\\Users\\zoa_z\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\JobCandidateSolution\\JC.BusinessLogic\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\zoa_z\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Projects\\JobCandidateSolution\\JC.BusinessObject\\JC.BusinessObject.csproj": {
+                "projectPath": "D:\\Projects\\JobCandidateSolution\\JC.BusinessObject\\JC.BusinessObject.csproj"
+              },
+              "D:\\Projects\\JobCandidateSolution\\JC.DataAccess.Contracts\\JC.DataAccess.Contracts.csproj": {
+                "projectPath": "D:\\Projects\\JobCandidateSolution\\JC.DataAccess.Contracts\\JC.DataAccess.Contracts.csproj"
+              },
+              "D:\\Projects\\JobCandidateSolution\\JC.DataAccess\\JC.DataAccess.csproj": {
+                "projectPath": "D:\\Projects\\JobCandidateSolution\\JC.DataAccess\\JC.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projects\\JobCandidateSolution\\JC.BusinessObject\\JC.BusinessObject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\JobCandidateSolution\\JC.BusinessObject\\JC.BusinessObject.csproj",
+        "projectName": "JC.BusinessObject",
+        "projectPath": "D:\\Projects\\JobCandidateSolution\\JC.BusinessObject\\JC.BusinessObject.csproj",
+        "packagesPath": "C:\\Users\\zoa_z\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\JobCandidateSolution\\JC.BusinessObject\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\zoa_z\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projects\\JobCandidateSolution\\JC.DataAccess.Contracts\\JC.DataAccess.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\JobCandidateSolution\\JC.DataAccess.Contracts\\JC.DataAccess.Contracts.csproj",
+        "projectName": "JC.DataAccess.Contracts",
+        "projectPath": "D:\\Projects\\JobCandidateSolution\\JC.DataAccess.Contracts\\JC.DataAccess.Contracts.csproj",
+        "packagesPath": "C:\\Users\\zoa_z\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\JobCandidateSolution\\JC.DataAccess.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\zoa_z\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Projects\\JobCandidateSolution\\JC.BusinessObject\\JC.BusinessObject.csproj": {
+                "projectPath": "D:\\Projects\\JobCandidateSolution\\JC.BusinessObject\\JC.BusinessObject.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projects\\JobCandidateSolution\\JC.DataAccess.SQL\\JC.DataAccess.SQL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\JobCandidateSolution\\JC.DataAccess.SQL\\JC.DataAccess.SQL.csproj",
+        "projectName": "JC.DataAccess.SQL",
+        "projectPath": "D:\\Projects\\JobCandidateSolution\\JC.DataAccess.SQL\\JC.DataAccess.SQL.csproj",
+        "packagesPath": "C:\\Users\\zoa_z\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\JobCandidateSolution\\JC.DataAccess.SQL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\zoa_z\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Projects\\JobCandidateSolution\\JC.BusinessObject\\JC.BusinessObject.csproj": {
+                "projectPath": "D:\\Projects\\JobCandidateSolution\\JC.BusinessObject\\JC.BusinessObject.csproj"
+              },
+              "D:\\Projects\\JobCandidateSolution\\JC.DataAccess.Contracts\\JC.DataAccess.Contracts.csproj": {
+                "projectPath": "D:\\Projects\\JobCandidateSolution\\JC.DataAccess.Contracts\\JC.DataAccess.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projects\\JobCandidateSolution\\JC.DataAccess\\JC.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\JobCandidateSolution\\JC.DataAccess\\JC.DataAccess.csproj",
+        "projectName": "JC.DataAccess",
+        "projectPath": "D:\\Projects\\JobCandidateSolution\\JC.DataAccess\\JC.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\zoa_z\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\JobCandidateSolution\\JC.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\zoa_z\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Projects\\JobCandidateSolution\\JC.DataAccess.Contracts\\JC.DataAccess.Contracts.csproj": {
+                "projectPath": "D:\\Projects\\JobCandidateSolution\\JC.DataAccess.Contracts\\JC.DataAccess.Contracts.csproj"
+              },
+              "D:\\Projects\\JobCandidateSolution\\JC.DataAccess.SQL\\JC.DataAccess.SQL.csproj": {
+                "projectPath": "D:\\Projects\\JobCandidateSolution\\JC.DataAccess.SQL\\JC.DataAccess.SQL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projects\\JobCandidateSolution\\JC.UnitTest\\JC.UnitTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\JobCandidateSolution\\JC.UnitTest\\JC.UnitTest.csproj",
+        "projectName": "JC.UnitTest",
+        "projectPath": "D:\\Projects\\JobCandidateSolution\\JC.UnitTest\\JC.UnitTest.csproj",
+        "packagesPath": "C:\\Users\\zoa_z\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\JobCandidateSolution\\JC.UnitTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\zoa_z\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Projects\\JobCandidateSolution\\JC.BusinessLogic\\JC.BusinessLogic.csproj": {
+                "projectPath": "D:\\Projects\\JobCandidateSolution\\JC.BusinessLogic\\JC.BusinessLogic.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.6.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.6.1, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

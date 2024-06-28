@@ -13,10 +13,10 @@ namespace JC.DataAccess.Contracts.Models
         public string FirstName { get; set; } = default!;
         public string LastName { get; set; } = default!;
         public string Email { get; set; } = default!;
-        public string PhoneNumber { get; set; } = default!;
-        public string LinkedInProfile { get; set; } = default!;
-        public string GithubProfile { get; set; } = default!;
-        public TimeOnly PreferedTime { get; set; } = default!;
+        public string? PhoneNumber { get; set; }
+        public string? LinkedInProfile { get; set; }
+        public string? GithubProfile { get; set; } 
+        public TimeOnly? PreferedTime { get; set; }
         public string Comments { get; set; } = default!;
     }
 }

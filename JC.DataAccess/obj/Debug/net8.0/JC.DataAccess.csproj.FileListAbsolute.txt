@@ -18,3 +18,4 @@ D:\Projects\JobCandidateSolution\JC.DataAccess\obj\Debug\net8.0\JC.DataAccess.dl
 D:\Projects\JobCandidateSolution\JC.DataAccess\obj\Debug\net8.0\refint\JC.DataAccess.dll
 D:\Projects\JobCandidateSolution\JC.DataAccess\obj\Debug\net8.0\JC.DataAccess.pdb
 D:\Projects\JobCandidateSolution\JC.DataAccess\obj\Debug\net8.0\ref\JC.DataAccess.dll
+D:\Projects\JobCandidateSolution\JC.DataAccess\bin\Debug\net8.0\Configuration\Config.json
