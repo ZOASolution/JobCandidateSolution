@@ -20,13 +20,13 @@ namespace JC.BusinessObject.Dtos
         [Required(ErrorMessage ="Email is Required")]
         [EmailAddress(ErrorMessage ="Pleae Enter Valid Email")]
         public string Email { get; set; } = default!;
-        public string? PhoneNumber { get; set; } = default!;
+        public string? PhoneNumber { get; set; }
         [DataType(DataType.Url)]
-        public string LinkedInProfile { get; set; } = default!;
+        public string? LinkedInProfile { get; set; }
         [DataType(DataType.Url)]
-        public string GithubProfile { get; set; } = default!;
+        public string? GithubProfile { get; set; }
         [DataType(DataType.Time)]
-        [DisplayFormat(DataFormatString ="hh:mm tt")]
+        //[DisplayFormat(DataFormatString ="hh:mm tt")]
         public TimeOnly? PreferedTime { get; set; }
         [DataType(DataType.MultilineText)]
         [Required(ErrorMessage ="Please Enter a brief introduction about yourself")]
